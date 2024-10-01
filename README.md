@@ -1,1 +1,2 @@
-cse29-lab1-test README
+# lab1
+ - First lab of the quarter
